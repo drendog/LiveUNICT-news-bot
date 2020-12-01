@@ -1,0 +1,6 @@
+token: <YOUR TOKEN>
+chat_id: "CHAT ID"
+
+pages:
+- "<website>/universita-catania/"
+- "<website>/universita-in-pillole/"
