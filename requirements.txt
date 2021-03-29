@@ -13,7 +13,7 @@ cmdtest==0.32+git
 colorama==0.4.3
 command-not-found==0.3
 configobj==5.0.6
-cryptography==2.8
+cryptography==3.3.2
 css-parser==1.0.4
 cssselect==1.1.0
 cssutils==1.0.2
