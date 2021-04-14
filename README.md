@@ -1,4 +1,4 @@
-# laivunicitty-nius-bot
+# LiveUnict-NewsBot (Unofficial)
 
 ![ ](https://i.imgur.com/bmmtLSw.jpg)
 
